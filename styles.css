@@ -1,0 +1,29 @@
+/* styles.css */
+
+@font-face {
+    font-family: "Dancing Script";
+    src: url(http://www.princexml.com/fonts/larabie/kimberle.ttf) format("truetype");
+  }
+
+div{
+    color: white;
+    background-color: black;
+}
+
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    color: #cf9029;
+    background-color: rgb(25, 99, 99);
+    font-weight: 400;
+
+}
+
+.avatar{
+    height:auto;
+    width: 150px;
+}
+
+body{
+    background-color: #cf9029;
+}
